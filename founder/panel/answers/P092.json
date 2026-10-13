@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Preciso de crédito para a fábrica, mas não vou abrir meus números e certidões para uma assessoria que nunca ouvi falar e que não me mostra um cliente sequer. Antes falo de novo com meu gerente e com o banco médio que já me procurou.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. Apresentar a 8 credores não quer dizer que algum vai aprovar, e os 2% sobre uma operação de alguns milhões é dinheiro grande para eu entregar a quem não tem histórico.",
+  "would_change_my_mind": "Conversar com dois ou três empresários do meu porte que captaram com eles, com valores e taxas que conseguiram, ou uma indicação do meu contador ou de alguém de confiança.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 25000,
+  "price_too_expensive": 50000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e já recebi ligação de consultoria prometendo 'crédito garantido'; não vou pagar R$ 15 mil adiantado nem abrir meus números para um intermediário que não conheço.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido, e 'apresentar a 8 credores' não garante crédito nenhum, só garante que meus dados circulem por aí.",
+  "would_change_my_mind": "Indicação do meu contador ou de um empresário que conheço que já captou com eles, e meu banco me negando um valor que eu realmente precise.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

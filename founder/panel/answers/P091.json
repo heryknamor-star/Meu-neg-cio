@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria adiantado e o crédito não saiu. Resolvo com meu gerente há anos e meu CFO monta o material; não vou pagar R$ 15 mil para um intermediário que não conheço.",
+  "objection": "A garantia é só de apresentar a 8 credores, não de o crédito sair. Me apresentar não custa nada para eles, e os R$ 15 mil ficam com eles mesmo se nenhum credor aprovar.",
+  "would_change_my_mind": "Zero de entrada, só os 2% no sucesso, e indicação de outro empresário do meu porte que captou com eles.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 25000
+}

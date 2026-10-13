@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e ele me atende pelo WhatsApp toda semana. Pagar R$ 15 mil adiantado mais 2% para um intermediário que eu não conheço levar minha empresa a FIDC e fundo que eu nunca usei não me convence.",
+  "objection": "Não sei quem são vocês, e expor os números da minha empresa para oito credores desconhecidos pode até atrapalhar minha relação com o banco. Os 2% em cima do valor captado também pesam no custo final do crédito.",
+  "would_change_my_mind": "Meu banco negar o limite que eu preciso, e alguém de confiança, tipo meu contador ou outro empresário do meu porte, me indicar vocês com um caso real de crédito que saiu a uma taxa melhor.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não conheço essa assessoria e ninguém de confiança me indicou. Crédito eu resolvo com o gerente do banco e com o meu contador; não vou pagar R$ 15 mil de entrada para um desconhecido mexer nos números da empresa.",
+  "objection": "Quem são esses caras? Vão abrir os dados da minha empresa para oito credores que eu nem conheço, e meus números nem estão organizados para isso. O 2% em cima do captado também pesa numa operação grande.",
+  "would_change_my_mind": "Meu contador ou um empresário amigo me dizer que já usou e que o crédito saiu em condição melhor que a do banco.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

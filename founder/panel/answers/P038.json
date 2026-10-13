@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado para consultoria de crédito e o dinheiro não saiu. Quinze mil na assinatura mais 2% de sucesso em cima de um crédito que já é caro, de uma empresa que não conheço, eu não assino.",
+  "objection": "A garantia só promete apresentar a 8 credores, não que o crédito saia. Apresentar é fácil; eu pago os R$ 15 mil e posso ficar sem nada de novo.",
+  "would_change_my_mind": "Indicação de um empresário da minha associação que captou com eles, e entrada menor ou devolvida se o crédito não sair.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

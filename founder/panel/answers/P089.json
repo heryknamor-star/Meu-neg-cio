@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Meu caixa apertou agora, preciso de dinheiro em semanas, não de um processo de 60 dias com material bonito. Mando mensagem pro gerente do banco hoje e ele me dá uma resposta essa semana, sem eu tirar R$ 15 mil do caixa que já está curto.",
+  "objection": "Pagar R$ 15 mil adiantado justo quando falta caixa, e a garantia só promete me apresentar a 8 credores, não que o crédito sai. Apresentar qualquer um apresenta; meu banco já me conhece.",
+  "would_change_my_mind": "Se o banco recusasse ou oferecesse bem menos do que eu preciso, e vocês cobrassem só no sucesso, sem o fixo na entrada, com prazo de liberação em até 30 dias.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e tenho CFO para montar material. Não vou abrir balanço e certidões para uma assessoria que nunca ouvi falar e que ainda vai espalhar meus números por oito credores.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido, e mostrar a empresa para FIDC e fundo pode passar sinal de que estamos apertados.",
+  "would_change_my_mind": "Indicação de outro empresário do meu porte que captou com eles, mais uma proposta concreta mostrando taxa bem abaixo do que meu banco oferece.",
+  "price_too_cheap": 3000,
+  "price_cheap": 10000,
+  "price_expensive": 30000,
+  "price_too_expensive": 60000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu já tenho CFO e cotamos taxa em vários bancos e plataformas por conta própria; pagar R$ 15 mil adiantado mais 2% para uma assessoria que ninguém da minha associação conhece não faz sentido. Os 2% sobre uma captação grande comem boa parte do ganho de taxa que vocês prometem.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. 'Apresentar a 8 credores' não garante crédito nem taxa melhor, só garante que vocês mandaram e-mails.",
+  "would_change_my_mind": "Indicação de um empresário do meu grupo que captou com vocês e conseguiu taxa comprovadamente menor do que o banco oferecia, com sucesso fee abaixo de 1% e sem valor fixo de entrada.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já me ligaram várias consultorias prometendo crédito e cobrando adiantado; não conheço ninguém que usou vocês. Com o caixa apertado, R$ 15 mil na assinatura sem saber se o dinheiro sai em tempo é exatamente o que eu não posso arriscar agora.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. Garantia de apresentar a 8 credores não é garantia de crédito, e 60 dias é muito tempo pra quem precisa de capital de giro já.",
+  "would_change_my_mind": "Indicação de outro empresário do meu porte que captou com vocês, ou zerar o fixo e cobrar só no sucesso.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

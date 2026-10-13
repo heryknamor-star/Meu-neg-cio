@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu preciso mesmo de crédito para a expansão e R$ 15 mil não me assusta, mas não vou entregar os números da empresa para uma assessoria que vi pela primeira vez. Antes, pergunto no grupo de empresários se alguém já captou com eles.",
+  "objection": "Não sei quem são nem que operações já fecharam. Apresentar para 8 credores não quer dizer que o crédito sai, e 2% sobre uma captação grande dá bastante dinheiro. Quero ver casos reais de empresas do meu porte e saber se a taxa que eles conseguem é melhor do que o banco já me oferece.",
+  "would_change_my_mind": "Indicação de um empresário da minha associação que captou com eles, com casos de empresas do meu tamanho com valor captado, prazo e taxa conseguidos.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 30000,
+  "price_too_expensive": 60000
+}

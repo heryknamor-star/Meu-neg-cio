@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu banco já me atende e eu não conheço essa assessoria; ninguém que eu confio me indicou. Pagar R$ 15 mil adiantado para alguém que eu nunca ouvi falar, sem meu contador aprovar, não vou.",
+  "objection": "Quem são esses caras? Meu contador não conhece, e ainda vou ter que organizar balanço atrasado e certidão para eles. E 2% em cima do crédito parece caro quando o gerente do banco me oferece direto.",
+  "would_change_my_mind": "Meu contador ou um empresário amigo me indicar dizendo que conseguiram crédito melhor que o do banco com eles.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

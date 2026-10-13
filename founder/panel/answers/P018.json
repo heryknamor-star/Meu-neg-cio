@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria de crédito adiantado e o crédito não saiu, então não pago R$ 15 mil na assinatura para alguém que eu nunca ouvi falar. A garantia de devolver se não apresentar a 8 credores não me protege: apresentar é fácil, o difícil é o crédito sair.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. 'Apresentar a 8 credores' não é resultado, e se der errado eu vou ter que correr atrás dos R$ 15 mil de volta.",
+  "would_change_my_mind": "Falar com dois ou três empresários do meu porte que captaram com eles, com nome e valor, e o fixo virar abatimento do sucesso ou ser cobrado só depois de um term sheet.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

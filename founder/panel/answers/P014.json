@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não contrato ninguém que aparece do nada, só o que meu contador ou um empresário que eu conheço indicar. E meu banco já me atende; não vejo por que pagar R$ 15 mil e mais 2% para alguém ficar no meio.",
+  "objection": "Não conheço essa assessoria e ninguém de confiança me indicou. Pagar R$ 15 mil adiantado para quem eu não conheço, e ainda entregar meus números e certidões, me deixa desconfiada, mesmo com a devolução prometida.",
+  "would_change_my_mind": "Meu contador ou um empresário amigo me indicar dizendo que já captou crédito com eles e que deu certo.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 15000,
+  "price_too_expensive": 25000
+}

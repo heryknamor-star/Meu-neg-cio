@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu caixa apertou agora e eu resolvo isso com o gerente do banco no WhatsApp esta semana. Pagar R$ 15 mil adiantado para alguém que eu não conheço e que fala em 60 dias não apaga o meu incêndio.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu, e eu não vou mandar R$ 15 mil e todos os números da empresa para um desconhecido numa hora de aperto. Fora que 60 dias para só apresentar a credores é muito devagar para quem precisa de capital de giro já.",
+  "would_change_my_mind": "Um empresário que eu conheço, do meu porte, me dizendo que eles captaram para ele rápido, e o fixo sendo abatido do sucesso ou cobrado só quando o crédito sair.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Faz anos que resolvo crédito com o meu gerente e nunca precisei de intermediário. Pagar R$ 15 mil adiantados mais 2% para alguém me apresentar a FIDC e fundo que eu não conheço me parece custo a mais e risco a mais.",
+  "objection": "Não conheço esses bancos médios e fundos, e não sei se esse assessor está do meu lado ou ganhando comissão do credor. Também não quero ninguém mexendo nos meus números e no meu contador.",
+  "would_change_my_mind": "Meu banco negar ou cortar um crédito de que eu precise de verdade, e um empresário que eu conheço me indicar a assessoria dizendo que conseguiu taxa melhor que a do banco.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 15000,
+  "price_too_expensive": 25000
+}

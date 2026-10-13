@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e não vejo por que pagar R$ 15 mil adiantados a um intermediário que não conheço. Além disso, não tenho tempo nem os números organizados para entrar nisso agora.",
+  "objection": "Desconfio de intermediário: quem me garante que não vão expor minha empresa a um monte de credor e que esses fundos e FIDCs não vão cobrar uma taxa pior que a do banco?",
+  "would_change_my_mind": "Uma indicação de um empresário conhecido da associação comercial que já captou com eles e saiu com taxa melhor que a do banco.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

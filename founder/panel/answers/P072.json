@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado para consultoria de crédito e o dinheiro não saiu, então R$ 15 mil na assinatura soa exatamente igual ao que me queimou. E 2% em cima de um crédito que já é caro pesa no custo total.",
+  "objection": "A garantia é só de 'apresentar' a 8 credores, não de o crédito sair; mandar um PDF para 8 fundos qualquer um faz, e eu fico sem os R$ 15 mil e sem o crédito.",
+  "would_change_my_mind": "Zerar o fixo ou devolver os R$ 15 mil se não sair nenhuma proposta firme (term sheet) em 60 dias, mais referências de clientes do meu porte que eu possa ligar.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 18000
+}

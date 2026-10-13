@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu mesma cotei taxa em vários bancos e plataformas, então pagar R$ 15 mil adiantados mais 2% do valor captado me parece caro para algo que consigo fazer sozinha. Além disso, não gosto da ideia de entregar os números da empresa para uma assessoria que não conheço.",
+  "objection": "Os 2% de êxito podem comer toda a economia na taxa, e eu teria que abrir balanço e certidões para um desconhecido sem saber se a taxa final vai ser melhor do que a que eu acho sozinha.",
+  "would_change_my_mind": "Uma garantia de que a taxa conseguida vai ser menor do que a melhor proposta que eu já tenho, com o honorário de êxito atrelado a essa economia, e não ao valor total captado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

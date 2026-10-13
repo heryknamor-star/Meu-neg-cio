@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Meu caixa apertou agora, preciso de dinheiro em semanas, não de um processo de 60 dias montando material. Vou primeiro apertar meu gerente no WhatsApp e ver antecipação de recebíveis direto.",
+  "objection": "Pagar R$ 15 mil adiantado quando o caixa já está curto, sem saber se o crédito sai a tempo, e ainda ter que parar para organizar números e certidões que eu não tenho prontos.",
+  "would_change_my_mind": "Uma garantia de prazo curto, tipo primeira proposta de crédito em até 15 dias, com o fixo abatido dos 2% ou pago só na liberação.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

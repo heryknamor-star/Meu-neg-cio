@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu preciso mesmo de crédito para a expansão e tenho alguns meses, então a ideia faz sentido, mas não vou assinar com uma assessoria que acabei de conhecer. Primeiro vou ouvir o que meu gerente oferece e perguntar no grupo de empresários se alguém já usou esse pessoal.",
+  "objection": "Meu banco já me atende. Não sei se esses bancos médios e FIDCs vão me dar taxa melhor, ou se vou pagar 2% a mais por um dinheiro mais caro. E apresentar a 8 credores não garante nada.",
+  "would_change_my_mind": "Indicação de um empresário da minha associação que tenha captado com eles, com exemplos reais de taxa e prazo conseguidos comparados com a proposta do banco dele.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 25000,
+  "price_too_expensive": 45000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quem é você? Não conheço nenhum cliente seu e meu contador nunca falou de vocês. Pagar R$ 15 mil adiantado para um desconhecido mexer nos números da minha empresa não é coisa que eu faço por anúncio.",
+  "objection": "Não sei quem está por trás, não tenho referência de nenhum empresário que usou, e ser apresentado a 8 credores não garante que o crédito sai. Os 2% do captado também pesam numa operação grande, e meu gerente do banco eu resolvo pelo WhatsApp.",
+  "would_change_my_mind": "Meu contador ou um empresário amigo me indicar vocês dizendo que já captaram para ele num banco médio ou FIDC com taxa melhor que a do banco dele.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 20000,
+  "price_too_expensive": 35000
+}

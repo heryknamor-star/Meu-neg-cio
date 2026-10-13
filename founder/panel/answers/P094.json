@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Meu problema é juros alto, não acesso a crédito. Eu mesmo cotei taxa em vários bancos e plataformas; pagar R$ 15 mil adiantado mais 2% do captado come justamente a economia de taxa que eu iria buscar.",
+  "objection": "Os 2% somados aos R$ 15 mil podem custar mais que a diferença de taxa que vocês conseguiriam. E já me ligaram oferecendo 'crédito garantido', então desconfio de quem cobra antes. A garantia só promete me apresentar a 8 credores, não promete taxa menor.",
+  "would_change_my_mind": "Honorário só sobre a economia de juros comprovada contra a melhor proposta que eu já tenho em mãos, sem fixo na entrada.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

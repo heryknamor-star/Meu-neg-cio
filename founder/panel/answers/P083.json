@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Meu caixa apertou agora, preciso de dinheiro em semanas, não de alguém que vai levar 60 dias só pra me apresentar a credores. E tirar R$ 15 mil do caixa justamente quando ele está curto, mais 2% em cima de um crédito que já vem caro, não fecha a conta.",
+  "objection": "Já me ligaram oferecendo 'crédito garantido' e era conversa. Aqui nada garante que o crédito sai; a única garantia é me apresentar a 8 credores, o que não paga folha nenhuma. E os 2% de sucesso encarecem ainda mais a taxa.",
+  "would_change_my_mind": "Prazo curto de verdade, tipo primeira proposta firme em 2-3 semanas, e o fixo abatido do sucesso ou cobrado só quando o dinheiro cair.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

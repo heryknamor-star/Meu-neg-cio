@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu mesmo cotei taxa em três bancos e duas plataformas no último crédito, não vou pagar R$ 15 mil adiantado mais 2% para alguém fazer o que eu já faço. Ainda mais depois de tanta ligação de consultoria prometendo 'crédito garantido'.",
+  "objection": "O fixo de R$ 15 mil sai na assinatura e a devolução só cobre 'apresentar a 8 credores', não aprovar crédito nem baixar taxa. Apresentar eu também apresento; e os 2% podem comer a economia de taxa que eles dizem negociar.",
+  "would_change_my_mind": "Sem fixo na entrada, cobrando só sobre sucesso, e com garantia atrelada a taxa melhor que a proposta que eu já tenho do meu banco.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 7000,
+  "price_too_expensive": 12000
+}

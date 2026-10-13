@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Meu caixa apertou agora; preciso de dinheiro em semanas, e uma garantia de 'apresentar a 8 credores em 60 dias' não me diz quando o crédito sai. Pagar R$ 15 mil adiantados e mais 2% em cima de um crédito que já vai ser caro, numa hora dessas, não fecha para mim.",
+  "objection": "Os 2% de êxito encarecem um crédito que já é caro, e já recebi ligação demais de consultoria prometendo 'crédito garantido'; apresentar a credores não é aprovar nada.",
+  "would_change_my_mind": "Um prazo curto e concreto (term sheet em até 3 semanas) com casos verificáveis de empresas do meu porte, e os R$ 15 mil abatidos do êxito.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 15000,
+  "price_too_expensive": 25000
+}

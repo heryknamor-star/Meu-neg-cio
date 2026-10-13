@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria adiantado e o crédito não saiu. R$ 15 mil na assinatura é exatamente o modelo que me queimou, e a garantia de 'apresentar a 8 credores' não garante crédito nenhum, só garante que mandaram e-mails.",
+  "objection": "Apresentar minha empresa a 8 credores é fácil e não vale nada; o que importa é o crédito sair. Ainda por cima, 2% de sucesso encarece um crédito que já é caro.",
+  "would_change_my_mind": "Zerar o fixo ou devolver os R$ 15 mil se nenhum termo de crédito firme sair em 90 dias, mais referências de CFOs de empresas do meu porte que captaram com eles.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu mesmo cotei taxa em vários bancos e plataformas, não pago honorário para fazer o que já faço. Se eu captar R$ 10 milhões, 2% são R$ 200 mil: isso come qualquer ganho de taxa que vocês arrancarem.",
+  "objection": "Pagar R$ 15 mil adiantado mais 2% do captado sem garantia de que a taxa final vai ser melhor do que eu consigo sozinho. Apresentar a 8 credores não é conseguir crédito, e meu balanço sai atrasado de qualquer jeito.",
+  "would_change_my_mind": "Honorário só no êxito e atrelado à economia de taxa comprovada contra a melhor proposta que eu já tenho na mesa.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

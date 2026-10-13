@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado para consultoria de crédito e o dinheiro não saiu. R$ 15 mil na assinatura para um desconhecido, mais abrir todos os meus números, não faço por anúncio.",
+  "objection": "Não quero abrir os números da empresa para quem eu não conheço, e a garantia só promete me apresentar a 8 credores, não promete que o crédito sai. Apresentar é fácil, quero ver aprovado.",
+  "would_change_my_mind": "Indicação de outro empresário do meu porte que captou com eles, e o fixo de entrada abatido do sucesso ou devolvido se o crédito não sair.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 25000
+}

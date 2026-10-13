@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Antes de pagar R$ 15 mil para um intermediário eu vou sentar com o meu gerente e ver até onde o banco vai para a filial. Não conheço vocês, e quem me garante que esses fundos e FIDCs não vão me cobrar juro pior que o do banco?",
+  "objection": "Pagar 15 mil adiantado mais 2% em cima de uma operação que já vem com juro alto, sem saber se a taxa que vocês conseguem é melhor do que a que eu consigo sozinha. Apresentar a 8 credores não é o mesmo que conseguir crédito.",
+  "would_change_my_mind": "Meu banco negar ou oferecer bem menos do que preciso, e vocês me mostrarem casos de empresas do meu porte com a taxa obtida comparada à do banco, com referências que eu possa ligar.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 12000,
+  "price_too_expensive": 25000
+}

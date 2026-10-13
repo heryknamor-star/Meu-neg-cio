@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu problema é juro alto, não falta de crédito, e não vou pagar R$ 15 mil adiantado pra alguém que meu contador não conhece. Se ele ou um empresário amigo não indicar, eu nem respondo.",
+  "objection": "Não conheço vocês, e FIDC e fundo de crédito costumam cobrar mais caro que o banco; 2% em cima disso pode deixar o dinheiro ainda mais caro do que já está.",
+  "would_change_my_mind": "Meu contador ou um empresário que eu conheço me indicar dizendo que vocês baixaram a taxa da dívida dele de verdade.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

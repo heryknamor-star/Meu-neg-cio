@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e não vou entregar balanço, certidões e endividamento da empresa para uma assessoria que nunca vi, ainda mais pagando R$ 15 mil antes de ver qualquer proposta. Se o banco não dá o que preciso, prefiro pressionar o banco ou pedir indicação do meu contador.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido e ver minha empresa sendo oferecida para oito credores que eu nem escolhi; e 2% em cima de taxa de FIDC, com a Selic onde está, encarece ainda mais o dinheiro.",
+  "would_change_my_mind": "Indicação direta de um empresário do meu círculo que já captou com eles, com NDA assinado e sem o fixo na entrada, só o êxito.",
+  "price_too_cheap": 3000,
+  "price_cheap": 8000,
+  "price_expensive": 15000,
+  "price_too_expensive": 25000
+}

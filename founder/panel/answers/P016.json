@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu gerente do banco me conhece há anos e resolve meu crédito sem eu pagar ninguém no meio. Pagar R$ 15 mil adiantado mais 2% para um intermediário que eu não conheço não entra na minha conta, ainda mais com FIDC, que costuma cobrar taxa mais alta que o banco.",
+  "objection": "Não sei quem são vocês. Os 2% somados aos juros de FIDC e fundo de crédito podem sair mais caro que o limite do meu banco, e a garantia só devolve os 15 mil se não me 'apresentarem' a 8 credores; apresentar não é aprovar.",
+  "would_change_my_mind": "Meu banco negar ou limitar um crédito de que eu realmente preciso, e eu ver casos verificáveis de empresas do meu porte em que vocês conseguiram taxa melhor que a do banco de relacionamento, já com os 2% incluídos.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

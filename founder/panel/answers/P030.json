@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado para consultoria de crédito e o crédito não saiu. R$ 15 mil na assinatura é exatamente o modelo que me queimou, e meu problema é juro alto, não falta de acesso a crédito.",
+  "objection": "A garantia é só de me 'apresentar' a 8 credores, não de o crédito sair nem de a taxa cair. Apresentar qualquer um faz; e eu pago os 15 mil de qualquer jeito.",
+  "would_change_my_mind": "Zero adiantado: só pagar quando o crédito sair e com taxa menor que a que pago hoje, mais referências de empresários do meu porte que eu possa ligar.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

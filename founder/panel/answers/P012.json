@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo meu crédito com o gerente do banco há anos, pelo WhatsApp, e não vou colocar um intermediário no meio pagando R$ 15 mil de entrada mais 2% em cima de um crédito que já é caro.",
+  "objection": "Os 2% de sucesso encarecem a operação, e não sei quem são esses FIDCs e fundos nem se o intermediário vai estragar minha relação com o banco.",
+  "would_change_my_mind": "O banco recusar ou limitar um crédito que eu realmente preciso, e alguém de confiança me indicar a assessoria com casos reais de empresas do meu porte.",
+  "price_too_cheap": 3000,
+  "price_cheap": 7000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

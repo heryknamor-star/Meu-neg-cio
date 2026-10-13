@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Resolvo crédito com meu gerente há anos e já recebi ligação dessas consultorias de 'crédito garantido'. Meu problema é juro alto, não falta de acesso; pagar R$ 15 mil adiantado mais 2% para um intermediário me levar a FIDC, que costuma cobrar mais caro que meu banco, não faz sentido para mim.",
+  "objection": "Não conheço vocês, e intermediário que cobra na entrada me cheira a essas consultorias que ligam prometendo crédito. Além disso, os 2% somam no custo total, e o que eu quero é taxa menor, não mais credores.",
+  "would_change_my_mind": "Indicação do meu contador ou de um empresário que eu conheço, mostrando que vocês conseguiram uma taxa total, já contando os 2%, menor do que a do banco dele.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

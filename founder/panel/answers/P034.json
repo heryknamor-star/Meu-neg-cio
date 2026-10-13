@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria de crédito adiantado e o dinheiro nunca saiu. R$ 15 mil na assinatura é exatamente o modelo que me queimou, e meu balanço ainda está atrasado, então nem sei se teria tempo de organizar tudo agora.",
+  "objection": "A garantia devolve os R$ 15 mil se não me apresentarem a 8 credores, mas apresentar não é aprovar. Eles podem mandar meu material para 8 fundos, ninguém aprovar, e ficam com meu dinheiro cumprindo o contrato.",
+  "would_change_my_mind": "Fixo zero ou bem menor, cobrado só quando houver term sheet assinado, ou a devolução atrelada a uma proposta firme de crédito, mais referências de clientes do meu porte que eu possa ligar.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}

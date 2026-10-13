@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu mesma cotar taxa em bancos e plataformas online, não pago R$ 15 mil adiantado para alguém fazer isso por mim. E 2% do captado come boa parte da economia de taxa que eu conseguiria sozinha.",
+  "objection": "Os R$ 15 mil fixos saem do meu bolso mesmo que o crédito não saia; a garantia só devolve se não me apresentarem a 8 credores, não se ninguém aprovar. Apresentar não é aprovar.",
+  "would_change_my_mind": "Sem taxa fixa na entrada, só o success fee, ou uma simulação mostrando que a taxa que eles conseguem economiza mais que os 2% mais os R$ 15 mil.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 7000,
+  "price_too_expensive": 12000
+}

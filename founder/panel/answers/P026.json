@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já me ligaram oferecendo 'crédito garantido' e isso tem a mesma cara. Meu problema é juro alto, não falta de acesso, e não pago R$ 15 mil adiantado para alguém que meu contador não conhece.",
+  "objection": "Pagar R$ 15 mil na assinatura para quem eu não conheço, e a garantia só cobre me apresentar a 8 credores, não conseguir taxa menor do que a do meu banco.",
+  "would_change_my_mind": "Meu contador ou um empresário amigo indicar dizendo que eles baixaram a taxa de uma empresa como a minha, de preferência com o fixo cobrado só no sucesso.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

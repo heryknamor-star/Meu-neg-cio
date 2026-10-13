@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado uma consultoria de crédito e o dinheiro não saiu; R$ 15 mil na assinatura é exatamente o mesmo modelo. A garantia só cobre 'apresentar a 8 credores', não o crédito sair, então apresentar é fácil e eu fico sem nada.",
+  "objection": "Pagar fixo antes de ver resultado, e ainda somar 2% de taxa de sucesso num crédito que já é caro; a garantia protege eles, não a mim.",
+  "would_change_my_mind": "Zero fixo na entrada (ou o fixo abatido dos 2% e devolvido se nenhum term sheet chegar em 90 dias), com referências de empresas do meu porte que captaram com eles.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

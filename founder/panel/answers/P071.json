@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria de crédito adiantado e o crédito não saiu. R$ 15 mil na assinatura pra alguém que eu não conheço, e ainda abrir todos os números da empresa, não faço só por causa de um anúncio.",
+  "objection": "A garantia é só de me apresentar a 8 credores, não de o crédito sair. Apresentar é fácil, mandar e-mail pra 8 fundos qualquer um faz. E não quero meus números circulando por aí na mão de um desconhecido.",
+  "would_change_my_mind": "Indicação de outro empresário da minha associação que captou com eles de verdade, ou eles cobrarem a entrada só depois de um termo de crédito na mesa.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

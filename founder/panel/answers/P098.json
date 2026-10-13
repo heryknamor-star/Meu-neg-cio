@@ -1,0 +1,13 @@
+{
+  "id": "P098",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Tenho CFO e eu mesmo comparo taxa em banco e plataforma; pagar R$ 15 mil adiantado mais 2% do captado come justamente a economia de taxa que eu iria buscar. Se captar R$ 5 milhões, são R$ 100 mil de honorário só de sucesso.",
+  "objection": "Os 2% de êxito podem custar mais do que a diferença de taxa que vocês conseguiriam negociar, e não há nenhuma garantia de que a taxa final vai ser melhor do que a que eu acho sozinho.",
+  "would_change_my_mind": "Honorário de êxito atrelado à economia de taxa comprovada contra a melhor proposta que eu já tenho, sem fixo na entrada.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 10000,
+  "price_too_expensive": 15000
+}
