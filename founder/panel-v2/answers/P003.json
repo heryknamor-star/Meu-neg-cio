@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Preciso do dinheiro para a expansão e os R$ 7.500 não me assustam, mas uma assessoria nova, sem nenhum caso para mostrar, soa parecido demais com as ligações de 'crédito garantido' que já recebo. Não vou abrir balanço e endividamento da empresa para quem eu não conheço só porque tem NDA.",
+  "objection": "Não sei quem são vocês nem se têm relacionamento real com bancos médios e FIDCs; acordo de confidencialidade com empresa desconhecida não me protege de verdade se meus números circularem no mercado.",
+  "would_change_my_mind": "Conhecer pessoalmente os sócios e ver histórico deles em banco ou fundo de crédito, com referência de algum empresário que eu conheça ou do meu contador que já tenha fechado operação com eles.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado uma vez e o crédito não saiu. Faço o diagnóstico gratuito com NDA, isso não custa nada, mas não assino cheque de R$ 7.500 para uma assessoria nova sem nenhum cliente que eu possa ligar e perguntar.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. Garantia de devolução de empresa nova vale o que, se ela sumir em 45 dias? Já ouvi promessa parecida antes.",
+  "would_change_my_mind": "Os R$ 7.500 ficarem em conta escrow ou serem pagos só depois da primeira proposta firme por escrito, ou eu conseguir falar com um gestor de FIDC ou banco médio que confirme que já fechou operação com vocês.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 7500,
+  "price_too_expensive": 15000
+}

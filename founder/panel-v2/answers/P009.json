@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria adiantado e o crédito não saiu, e agora uma assessoria nova, sem caso nenhum, me pede R$ 7.500 na assinatura. Faço o diagnóstico gratuito se quiserem, mas dinheiro antes de ver proposta eu não ponho de novo.",
+  "objection": "Garantia de devolução de assessoria nova vale o quê? Da última vez também prometeram. E meu problema é juro alto, não falta de crédito; uma 'proposta firme' qualquer em 45 dias não me resolve nada se a taxa for igual à do banco.",
+  "would_change_my_mind": "Tirar o adiantamento: cobrar só no sucesso, ou deixar os R$ 7.500 em conta escrow e só liberar se eu aceitar uma proposta com taxa menor que a minha atual.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2000,
+  "price_expensive": 5000,
+  "price_too_expensive": 10000
+}

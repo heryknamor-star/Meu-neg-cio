@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu faria o diagnóstico gratuito, mas não assino nem pago R$ 7.500 para uma assessoria nova, sem nenhum caso para mostrar. Já paguei consultoria adiantado e o crédito não saiu; e com o caixa apertado, 45 dias é muito tempo para descobrir que não deu certo de novo.",
+  "objection": "Assessoria nova, sem histórico: quem me garante que essa devolução dos R$ 7.500 vai acontecer mesmo, e que vocês têm porta aberta nos FIDCs e bancos médios a tempo de resolver o meu caixa agora?",
+  "would_change_my_mind": "Ver no diagnóstico gratuito pelo menos um credor já sinalizando interesse por escrito, ou cobrar só no sucesso, sem nada na assinatura, com indicação de alguém da minha associação que já tenha trabalhado com vocês.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei consultoria adiantado uma vez e o crédito não saiu. Assessoria nova, sem histórico, pedindo R$ 7.500 na assinatura: prefiro sentar com meu gerente, que me conhece há anos, antes de abrir meus números para intermediário.",
+  "objection": "Garantia de devolução de empresa que ninguém conhece não vale muito; se sumirem, quem me devolve? E 'proposta firme' de FIDC pode vir com taxa ruim só para cumprir a garantia.",
+  "would_change_my_mind": "Indicação de um empresário da minha associação que fechou com eles e ficou satisfeito, ou zerar o adiantamento e cobrar só no sucesso.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2500,
+  "price_expensive": 6000,
+  "price_too_expensive": 12000
+}

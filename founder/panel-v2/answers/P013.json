@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu caixa está apertado e eu preciso de dinheiro agora, não posso apostar R$ 7.500 nem abrir meus números para uma assessoria que ninguém da minha associação conhece. Até faço o diagnóstico gratuito para ver se vocês sabem do que falam, mas pagar a entrada, não, por enquanto.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu, e 45 dias para uma proposta é muito tempo para quem está apagando incêndio no capital de giro.",
+  "would_change_my_mind": "Um empresário do meu grupo que eu conheço dizendo que vocês captaram para ele, ou o diagnóstico gratuito já vindo com um credor interessado em poucos dias.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

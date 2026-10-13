@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Os R$ 7.500 não me pesam, mas 2% sobre uma captação de R$ 15-20 mi para a fábrica são R$ 300-400 mil a mais num crédito que já está caro com essa Selic. Tenho CFO e consigo bater na porta de banco médio e FIDC por conta própria; aceito o diagnóstico grátis, mas não assino agora.",
+  "objection": "Taxa de sucesso encarece um crédito que já é caro, e é uma assessoria nova, sem nenhum caso fechado, pedindo para ver os números de uma expansão que ainda é sigilosa.",
+  "would_change_my_mind": "Honorário de sucesso escalonado e menor em captações grandes (por exemplo 1% acima de R$ 10 mi) ou pago só sobre a economia real de custo efetivo total frente à proposta do meu banco.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 20000,
+  "price_too_expensive": 50000
+}

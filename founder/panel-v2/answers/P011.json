@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "A proposta é bem desenhada e o risco financeiro é baixo, mas é uma assessoria nova sem um único caso para me mostrar. Eu não abro DRE, endividamento e certidões para quem não tem referência, nem com NDA. No máximo eu peço o diagnóstico gratuito e o contrato para meu advogado ler, mas assinar agora, não.",
+  "objection": "Quem são vocês? Sem histórico, sem clientes que eu possa ligar, eu não sei se vocês têm acesso real a bancos médios e FIDCs ou se vão só circular meus números no mercado.",
+  "would_change_my_mind": "Duas ou três referências verificáveis de empresários do meu porte que captaram com os sócios, mesmo de antes da assessoria, mais a minuta do contrato e do NDA para meu advogado revisar antes.",
+  "price_too_cheap": 1500,
+  "price_cheap": 5000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

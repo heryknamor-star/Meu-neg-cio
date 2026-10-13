@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Assessoria nova, sem nenhum cliente que eu conheça, pedindo R$ 7.500 adiantados e acesso aos números da minha empresa? Eu mesma comparo taxa em banco e plataforma online, e ainda teria que dar 2% do valor captado para alguém que nunca vi fechar uma operação.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu. Os 2% de sucesso comem boa parte da economia de taxa que eu consigo sozinha, e devolver os R$ 7.500 depende de eu confiar que vocês vão cumprir.",
+  "would_change_my_mind": "Falar com dois ou três empresários do meu porte que fecharam crédito com vocês e economizaram de verdade, e não pagar nada adiantado.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 7500,
+  "price_too_expensive": 15000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu gerente me conhece há anos e resolve meu crédito com um telefonema. Uma assessoria nova, sem nenhum caso para mostrar, querendo R$ 7.500 adiantado e abrir meus números para FIDC e fundo que eu nem conheço não me convence. No máximo eu pegaria o diagnóstico gratuito para usar na conversa com o meu banco.",
+  "objection": "Não sei quem vocês são. São uma empresa nova, só com 5 clientes, e o meu medo é expor meus números, criar ruído com o banco de relacionamento e acabar preso em taxa de FIDC mais cara do que a do banco.",
+  "would_change_my_mind": "Uma indicação do meu contador ou de outro empresário que eu conheça que tenha captado com vocês a uma taxa menor do que a do banco, e entrar sem pagar nada adiantado.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 10000,
+  "price_too_expensive": 20000
+}

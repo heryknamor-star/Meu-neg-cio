@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu mesma já cotei taxa em vários bancos e plataformas e falo com meu gerente toda semana; meu problema é juros alto, não falta de crédito. Pagar R$ 7.500 adiantado e mais 2% do valor captado come boa parte da economia de taxa que eu conseguiria sozinha.",
+  "objection": "Os 2% de sucesso podem anular a diferença de taxa: se a proposta for só um pouco melhor que a do meu banco, no custo efetivo total eu saio no zero ou perdendo. E é uma assessoria nova, sem histórico, me pedindo dinheiro na assinatura.",
+  "would_change_my_mind": "Sem nada na assinatura e o honorário de sucesso calculado como parte da economia de juros comprovada no custo efetivo total, com o diagnóstico gratuito mostrando antes, em números, quanto eu economizaria.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2500,
+  "price_expensive": 5000,
+  "price_too_expensive": 7500
+}

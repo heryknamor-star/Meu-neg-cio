@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei adiantado para consultoria de crédito e o dinheiro não saiu; uma assessoria nova, sem nenhum caso para mostrar, pedindo R$ 7.500 na assinatura é exatamente o roteiro que me queimou. No máximo eu faria o diagnóstico gratuito, mas não assino nada pagando antes.",
+  "objection": "Devolução em 45 dias é promessa no papel de uma empresa que acabou de nascer; se ela fechar ou enrolar, quem vai me devolver? E 'proposta firme' de FIDC pode vir com taxa absurda só para cumprir a garantia.",
+  "would_change_my_mind": "Os R$ 7.500 ficarem em conta escrow ou serem cobrados só depois da primeira proposta firme por escrito, mais duas referências de CFOs que eu possa ligar.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 12000,
+  "price_too_expensive": 25000
+}

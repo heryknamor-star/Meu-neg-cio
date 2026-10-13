@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "June",
+  "age": 55,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 7748000,
+  "behaviour": "Caçador de taxa",
+  "behaviour_how": "Compara taxa de juros em vários bancos e plataformas online sozinho, não quer pagar honorário.",
+  "objection": "Meu problema é juros alto, não acesso a crédito",
+  "habit": "você fala com o gerente do banco pelo WhatsApp quase toda semana"
+ },
+ {
+  "id": "P002",
+  "name": "Maya",
+  "age": 41,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 8446000,
+  "behaviour": "Caçador de taxa",
+  "behaviour_how": "Compara taxa de juros em vários bancos e plataformas online sozinho, não quer pagar honorário.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P003",
+  "name": "Levi",
+  "age": 47,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 10370000,
+  "behaviour": "Planejador de expansão",
+  "behaviour_how": "Quer financiar uma fábrica, uma filial ou uma aquisição e tem prazo de meses.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido",
+  "habit": "você já recebeu ligação de consultoria de crédito oferecendo 'crédito garantido'"
+ },
+ {
+  "id": "P004",
+  "name": "Sam",
+  "age": 43,
+  "segment": "Empresa que fatura R$ 30-50 mi (tem CFO); income = faturamento anual da empresa em R$",
+  "income": 35117000,
+  "behaviour": "Planejador de expansão",
+  "behaviour_how": "Quer financiar uma fábrica, uma filial ou uma aquisição e tem prazo de meses.",
+  "objection": "Taxa de sucesso encarece um crédito que já é caro",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P005",
+  "name": "Amara",
+  "age": 38,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 11808000,
+  "behaviour": "Confia no contador",
+  "behaviour_how": "Só contrata o que o contador ou um empresário amigo indicar.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P006",
+  "name": "Freya",
+  "age": 38,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 24992000,
+  "behaviour": "Já se queimou",
+  "behaviour_how": "Já pagou consultoria de crédito adiantado e o crédito não saiu; muito desconfiado.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "seu contador fecha o balanço com atraso de alguns meses"
+ },
+ {
+  "id": "P007",
+  "name": "Leah",
+  "age": 48,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 28963000,
+  "behaviour": "Confia no contador",
+  "behaviour_how": "Só contrata o que o contador ou um empresário amigo indicar.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido",
+  "habit": "você fala com o gerente do banco pelo WhatsApp quase toda semana"
+ },
+ {
+  "id": "P008",
+  "name": "Alma",
+  "age": 41,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 22825000,
+  "behaviour": "Já se queimou",
+  "behaviour_how": "Já pagou consultoria de crédito adiantado e o crédito não saiu; muito desconfiado.",
+  "objection": "Não tenho tempo nem os números organizados para isso",
+  "habit": "você já recebeu ligação de consultoria de crédito oferecendo 'crédito garantido'"
+ },
+ {
+  "id": "P009",
+  "name": "Omar",
+  "age": 61,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 8922000,
+  "behaviour": "Já se queimou",
+  "behaviour_how": "Já pagou consultoria de crédito adiantado e o crédito não saiu; muito desconfiado.",
+  "objection": "Meu problema é juros alto, não acesso a crédito",
+  "habit": "seu contador fecha o balanço com atraso de alguns meses"
+ },
+ {
+  "id": "P010",
+  "name": "Adrian",
+  "age": 37,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 23459000,
+  "behaviour": "Apagando incêndio",
+  "behaviour_how": "Precisa de capital de giro rápido porque o caixa apertou; decide sob pressão.",
+  "objection": "Já paguei consultoria adiantado e o crédito não saiu",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P011",
+  "name": "Priya",
+  "age": 59,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 8846000,
+  "behaviour": "Pesquisa tudo",
+  "behaviour_how": "Pede cases, referências e contrato antes de qualquer conversa séria.",
+  "objection": "Não quero abrir os números da empresa para um desconhecido",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P012",
+  "name": "Theo",
+  "age": 38,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 9517000,
+  "behaviour": "Fiel ao banco",
+  "behaviour_how": "Resolve tudo com o gerente do banco de relacionamento há anos e desconfia de intermediário.",
+  "objection": "Meu banco já me atende, para que pagar alguém no meio?",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P013",
+  "name": "Ethan",
+  "age": 55,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 8505000,
+  "behaviour": "Apagando incêndio",
+  "behaviour_how": "Precisa de capital de giro rápido porque o caixa apertou; decide sob pressão.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "você participa de uma associação comercial ou de um grupo de empresários da sua cidade"
+ },
+ {
+  "id": "P014",
+  "name": "Sara",
+  "age": 57,
+  "segment": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+  "income": 12756000,
+  "behaviour": "Fiel ao banco",
+  "behaviour_how": "Resolve tudo com o gerente do banco de relacionamento há anos e desconfia de intermediário.",
+  "objection": "Meu banco já me atende, para que pagar alguém no meio?",
+  "habit": "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+ },
+ {
+  "id": "P015",
+  "name": "Jasper",
+  "age": 59,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 18359000,
+  "behaviour": "Planejador de expansão",
+  "behaviour_how": "Quer financiar uma fábrica, uma filial ou uma aquisição e tem prazo de meses.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "você já recebeu ligação de consultoria de crédito oferecendo 'crédito garantido'"
+ },
+ {
+  "id": "P016",
+  "name": "Sofia",
+  "age": 59,
+  "segment": "Empresa que fatura R$ 30-50 mi (tem CFO); income = faturamento anual da empresa em R$",
+  "income": 43879000,
+  "behaviour": "Apagando incêndio",
+  "behaviour_how": "Precisa de capital de giro rápido porque o caixa apertou; decide sob pressão.",
+  "objection": "Já paguei consultoria adiantado e o crédito não saiu",
+  "habit": "você participa de uma associação comercial ou de um grupo de empresários da sua cidade"
+ },
+ {
+  "id": "P017",
+  "name": "Esme",
+  "age": 39,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 18455000,
+  "behaviour": "Pesquisa tudo",
+  "behaviour_how": "Pede cases, referências e contrato antes de qualquer conversa séria.",
+  "objection": "Quem é você? Não conheço nenhum cliente seu",
+  "habit": "você participa de uma associação comercial ou de um grupo de empresários da sua cidade"
+ },
+ {
+  "id": "P018",
+  "name": "Talia",
+  "age": 61,
+  "segment": "Empresa que fatura R$ 30-50 mi (tem CFO); income = faturamento anual da empresa em R$",
+  "income": 40567000,
+  "behaviour": "Apagando incêndio",
+  "behaviour_how": "Precisa de capital de giro rápido porque o caixa apertou; decide sob pressão.",
+  "objection": "Meu problema é juros alto, não acesso a crédito",
+  "habit": "você fala com o gerente do banco pelo WhatsApp quase toda semana"
+ },
+ {
+  "id": "P019",
+  "name": "Marco",
+  "age": 55,
+  "segment": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+  "income": 19464000,
+  "behaviour": "Fiel ao banco",
+  "behaviour_how": "Resolve tudo com o gerente do banco de relacionamento há anos e desconfia de intermediário.",
+  "objection": "Já paguei consultoria adiantado e o crédito não saiu",
+  "habit": "você participa de uma associação comercial ou de um grupo de empresários da sua cidade"
+ },
+ {
+  "id": "P020",
+  "name": "Marcus",
+  "age": 43,
+  "segment": "Empresa que fatura R$ 30-50 mi (tem CFO); income = faturamento anual da empresa em R$",
+  "income": 37856000,
+  "behaviour": "Fiel ao banco",
+  "behaviour_how": "Resolve tudo com o gerente do banco de relacionamento há anos e desconfia de intermediário.",
+  "objection": "Taxa de sucesso encarece um crédito que já é caro",
+  "habit": "você participa de uma associação comercial ou de um grupo de empresários da sua cidade"
+ }
+]

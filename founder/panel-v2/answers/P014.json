@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meu gerente me conhece há anos e resolve o que eu preciso; não vou pagar R$ 7.500 para uma assessoria que acabou de abrir e ainda mostrar meus números para FIDC e fundo que eu nunca vi. No máximo eu pegaria o diagnóstico gratuito para usar de argumento com o meu banco.",
+  "objection": "É uma empresa nova, sem histórico nenhum, pedindo dinheiro adiantado e acesso aos números da minha empresa. Garantia de devolução de quem eu não conheço vale pouco, e 2% sobre o captado é caro para quem já tem banco.",
+  "would_change_my_mind": "Uma indicação do meu contador ou de outro empresário que eu conheço que tenha conseguido taxa melhor que a do banco com eles, e sem pagar nada na assinatura.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2500,
+  "price_expensive": 6000,
+  "price_too_expensive": 12000
+}
