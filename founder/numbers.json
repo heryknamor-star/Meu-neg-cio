@@ -3,26 +3,82 @@
   "unit": "mandato fechado",
   "price": 60000,
   "variable": [
-    {"label": "Impostos sobre serviço (estimativa 15%, confirmar regime com contador)", "cost": 9000},
-    {"label": "Comissão de indicação ao contador parceiro (estimativa 10%)", "cost": 6000},
-    {"label": "Certidões, advogado, viagens e dados por operação (estimativa)", "cost": 3000},
-    {"label": "Custo dos mandatos que não fecham, rateado (0,67 por mandato fechado x R$ 1.500)", "cost": 1000}
+    {
+      "label": "Impostos sobre serviço (estimativa 15%, confirmar regime com contador)",
+      "cost": 9000
+    },
+    {
+      "label": "Comissão de indicação ao contador parceiro (estimativa 10%)",
+      "cost": 6000
+    },
+    {
+      "label": "Certidões, advogado, viagens e dados por operação (estimativa)",
+      "cost": 3000
+    },
+    {
+      "label": "Custo dos mandatos que não fecham, rateado (0,67 por mandato fechado x R$ 1.500)",
+      "cost": 1000
+    },
+    {
+      "label": "Diagnósticos grátis que não viram mandato (3 por mandato x R$ 300 em consultas e deslocamento)",
+      "cost": 900
+    }
   ],
   "fixed_monthly": [
-    {"label": "Pró-labore do fundador (estimativa, a definir)", "cost": 12000},
-    {"label": "Contador", "cost": 1200},
-    {"label": "Software, CRM e consultas de crédito", "cost": 1500},
-    {"label": "Coworking e salas de reunião", "cost": 1000},
-    {"label": "Marketing e eventos com contadores e associações", "cost": 2000}
+    {
+      "label": "Pró-labore do fundador (estimativa, a definir)",
+      "cost": 12000
+    },
+    {
+      "label": "Contador",
+      "cost": 1200
+    },
+    {
+      "label": "Software e consultas (Google Workspace, Clicksign, CRM, Serasa; ver founder/ops.md)",
+      "cost": 600
+    },
+    {
+      "label": "Coworking e salas de reunião",
+      "cost": 1000
+    },
+    {
+      "label": "Marketing e eventos com contadores e associações",
+      "cost": 2000
+    }
   ],
   "startup": [
-    {"label": "Abertura da empresa e registros", "cost": 3000},
-    {"label": "Contratos, NDA e termos da garantia com advogado", "cost": 5000},
-    {"label": "Site, marca e material de apresentação", "cost": 5000},
-    {"label": "Reserva para viagens dos primeiros diagnósticos", "cost": 2000}
+    {
+      "label": "Abertura da empresa e registros",
+      "cost": 3000
+    },
+    {
+      "label": "Contratos, NDA e termos da garantia com advogado",
+      "cost": 5000
+    },
+    {
+      "label": "Site, marca e material de apresentação",
+      "cost": 5000
+    },
+    {
+      "label": "Reserva para viagens dos primeiros diagnósticos",
+      "cost": 2000
+    }
   ],
   "days_per_month": 1,
   "capacity_per_day": 3,
   "plan_per_day": 2,
-  "ramp_per_day": [0, 0, 0, 0.5, 0.5, 1, 1, 1, 1.5, 1.5, 2, 2]
+  "ramp_per_day": [
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    1.5,
+    1.5,
+    2,
+    2
+  ]
 }
