@@ -1,0 +1,93 @@
+{
+ "n": 20,
+ "seed": 423639,
+ "customer": {
+  "business": "Assessoria de dívida estruturada para médias empresas (nome a definir)",
+  "target": "Sócio-fundador ou CFO de empresa brasileira com faturamento entre R$ 5 mi e R$ 50 mi por ano que precisa de crédito acima do que o banco de relacionamento oferece",
+  "where": "Brasil, principalmente capitais e polos industriais do Sudeste e Sul",
+  "age": [
+   32,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Dono de empresa que fatura R$ 5-15 mi (sem CFO, contador externo); income = faturamento anual da empresa em R$",
+    "share": 0.45,
+    "income": [
+     5000000,
+     15000000
+    ]
+   },
+   {
+    "name": "Empresa que fatura R$ 15-30 mi (tem controller ou gerente financeiro); income = faturamento anual da empresa em R$",
+    "share": 0.35,
+    "income": [
+     15000000,
+     30000000
+    ]
+   },
+   {
+    "name": "Empresa que fatura R$ 30-50 mi (tem CFO); income = faturamento anual da empresa em R$",
+    "share": 0.2,
+    "income": [
+     30000000,
+     50000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Fiel ao banco",
+    "share": 0.22,
+    "how": "Resolve tudo com o gerente do banco de relacionamento há anos e desconfia de intermediário."
+   },
+   {
+    "name": "Apagando incêndio",
+    "share": 0.18,
+    "how": "Precisa de capital de giro rápido porque o caixa apertou; decide sob pressão."
+   },
+   {
+    "name": "Planejador de expansão",
+    "share": 0.15,
+    "how": "Quer financiar uma fábrica, uma filial ou uma aquisição e tem prazo de meses."
+   },
+   {
+    "name": "Já se queimou",
+    "share": 0.15,
+    "how": "Já pagou consultoria de crédito adiantado e o crédito não saiu; muito desconfiado."
+   },
+   {
+    "name": "Caçador de taxa",
+    "share": 0.12,
+    "how": "Compara taxa de juros em vários bancos e plataformas online sozinho, não quer pagar honorário."
+   },
+   {
+    "name": "Confia no contador",
+    "share": 0.1,
+    "how": "Só contrata o que o contador ou um empresário amigo indicar."
+   },
+   {
+    "name": "Pesquisa tudo",
+    "share": 0.08,
+    "how": "Pede cases, referências e contrato antes de qualquer conversa séria."
+   }
+  ],
+  "objections": [
+   "Meu banco já me atende, para que pagar alguém no meio?",
+   "Já paguei consultoria adiantado e o crédito não saiu",
+   "Taxa de sucesso encarece um crédito que já é caro",
+   "Quem é você? Não conheço nenhum cliente seu",
+   "Não tenho tempo nem os números organizados para isso",
+   "Não quero abrir os números da empresa para um desconhecido",
+   "Meu problema é juros alto, não acesso a crédito"
+  ],
+  "habits": [
+   "você fala com o gerente do banco pelo WhatsApp quase toda semana",
+   "seu contador fecha o balanço com atraso de alguns meses",
+   "você participa de uma associação comercial ou de um grupo de empresários da sua cidade",
+   "você já recebeu ligação de consultoria de crédito oferecendo 'crédito garantido'",
+   "você acompanha a taxa Selic e reclama dos juros nas reuniões"
+  ]
+ },
+ "pitch": "Proposta Firme de Crédito, para empresas que faturam de R$ 5 mi a R$ 50 mi e precisam de mais crédito do que o banco de relacionamento oferece.\nPasso 1, grátis, em 7 dias e com acordo de confidencialidade: você recebe por escrito quanto pode captar, de que tipo de credor (banco médio, FIDC, fundo de crédito) e a que custo estimado, comparado ao custo das dívidas que você já tem. Se não valer a pena, dizemos isso.\nPasso 2, se fizer sentido: organizamos números e certidões, montamos o dossiê e levamos só aos credores que você aprovar, um a um, com relatório de andamento toda semana.\nTurma de lançamento, 5 empresas, até 31/03/2027: nada adiantado. Você só paga se aceitar uma proposta: 2% até R$ 10 mi captados, 1% acima, mínimo de R$ 40 mil. Se nenhuma proposta for melhor que a oferta escrita do seu banco, você não paga nada e fica com o dossiê.\nEm troca, pedimos autorização para relatar o caso (sem o nome da empresa, se preferir).\nPara as perguntas de preço, considere o honorário mínimo por operação fechada (hoje R$ 40.000)."
+}
